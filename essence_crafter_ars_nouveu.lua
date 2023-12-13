@@ -177,7 +177,7 @@ local function wait_for_imbuiment()
             waiting = false
         end
 
-        os.sleep(3)
+        os.sleep(0.5)
     end
 end
 
